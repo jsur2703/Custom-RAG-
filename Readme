@@ -1,0 +1,2 @@
+Created an end-to-end Retrieval-Augmented Generation (RAG) chatbot that answers user queries using document retrieval (FAISS) 
+and an open-source LLM, enabling grounded, context-aware responses from custom knowledge bases.
